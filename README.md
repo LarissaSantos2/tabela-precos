@@ -14,10 +14,13 @@ Este projeto consiste em uma **tabela de preços** que apresenta diferentes plan
 ## 🎯 Objetivo
 Criar uma interface visualmente agradável e funcional para exibir planos de assinatura, praticando conceitos de **UI/UX**, layout e responsividade.
 
-## 👀 Como Visualizar
-1. Clone este repositório ou baixe os arquivos.  
-2. Abra o arquivo `index.html` em qualquer navegador.  
-
 ## 📌 Observações
 - O design inclui **efeitos de hover** e **cards de planos destacados**.
 - Todos os planos são apresentados em **cards separados** para melhor visualização.
+
+- ## 👀 Como Visualizar
+1. Clone o repositório ou baixe os arquivos.  
+2. Acesse diretamente pelo link em qualquer navegador:
+
+```bash
+https://larissasantos2.github.io/tabela-precos/
